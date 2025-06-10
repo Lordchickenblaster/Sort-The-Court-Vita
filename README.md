@@ -12,7 +12,7 @@ STEPS:
  1. In the xdelta GUI:
      - Under "Patch", click "Open..." and select the `STCPatch.xdelta` patch file
      - Under "Source File", click "Open..." and select the `SortTheCourt.exe` you downloaded
-     - Under "Output File", choose a name and location for the patched VPK
+     - Under "Output File", choose a name and location for the patched VPK (Make sure to add .VPK to end of file name)
  2. Click "Patch".
 
  3. Use VitaShell to install the VPK
